@@ -1,10 +1,11 @@
 # loopback-todos-api
 
-To start the server
+To install the dependencies
 ```javascript
 npm install
 ```
 
+To start the server
 ```javascript
 node .
 ```
